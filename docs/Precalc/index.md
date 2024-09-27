@@ -14,22 +14,17 @@ layout: default
 [Chapter 3: ](/Chapters/chapter3.md)\
 [Chapter 4: ](/Chapters/chapter4.md)\
 [Chapter 5: ](/Chapters/chapter5.md)\
-[Chapter 6: ](/Chapters/chapter6.md)\
+[Chapter 6: ](/Chapters/chapter6.md)
 
 
 # Placeholder
 
 
 
-<a href="" download>Placeholder</a>
+<a href="/Early Transcendentals 9th.pdf" download>Early Transcendentals</a>
 
-<a href="" download>Placeholder</a>
+<a href="/Precalc 7th.pdf" download>Precalc</a>
 
-<a href="" download>Placeholder</a>
-
-<a href="" download>Placeholder</a>
-
-<a href="" download>Placeholder</a>
 
 
 

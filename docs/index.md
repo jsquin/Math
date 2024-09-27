@@ -7,7 +7,7 @@ layout: default
 # {{ page.title }}
 
 [Precalculus](/Precalc/index.md)\
-[Math 10](/Math10/index.md)\
+[Math 10](/Math10/index.md)
 
 
 # Placeholder
