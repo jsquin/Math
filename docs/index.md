@@ -7,23 +7,8 @@ layout: default
 # {{ page.title }}
 
 [Precalculus](/Precalc/index.md)\
-[Math 10](/Math10/index.md)
-
-
-# Placeholder
-
-
-
-
-<a href="" download>Placeholder</a>
-
-<a href="" download>Placeholder</a>
-
-<a href="" download>Placeholder</a>
-
-<a href="" download>Placeholder</a>
-
-<a href="" download>Placeholder</a>
+[Math 10](/Math10/index.md)\
+[Physics](/Physics/index.md)
 
 
 # Projects
