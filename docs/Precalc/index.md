@@ -11,12 +11,8 @@ layout: default
 
 <details><summary>Unit 1: Polynomial and Rational Functions</summary>
 
-+ [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
-
-+ [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
-
-+ [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
-
+<a href="/units1/unit1.md">1.1: Bingus</a>
+<a href="/units1/unit1.md">1.2: Bingus2</a>
 
 </details>
 
