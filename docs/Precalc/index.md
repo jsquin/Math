@@ -11,11 +11,11 @@ layout: default
 
 <details><summary>Unit 1: Polynomial and Rational Functions</summary>
 
-[Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
++ [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
 
-[Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
++ [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
 
-[Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
++ [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
 
 
 </details>
@@ -23,11 +23,9 @@ layout: default
 
 <details><summary>Unit 2: Exponential and Logarithmic Functions</summary>
 
-[Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
-
-[Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
-
-[Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
++ [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
++ [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
++ [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)
 
 </details>
 
