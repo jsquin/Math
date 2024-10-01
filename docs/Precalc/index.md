@@ -9,9 +9,7 @@ layout: default
 
 ## Chapters
 
-<details open>
-<summary>Unit 1: Polynomial and Rational Functions</summary>
-<br>
+<details open><summary>Unit 1: Polynomial and Rational Functions</summary>
 
 [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)\
 [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)\
@@ -20,9 +18,7 @@ layout: default
 </details>
 
 
-<details open>
-<summary>Unit 2: Exponential and Logarithmic Functions</summary>
-<br>
+<details open><summary>Unit 2: Exponential and Logarithmic Functions</summary>
 
 [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)\
 [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)\
@@ -30,9 +26,8 @@ layout: default
 
 </details>
 
-<details open>
-<summary>Unit 3: Placeholder</summary>
-<br>
+
+<details open><summary>Unit 3: Placeholder</summary>
 
 [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)\
 [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)\
@@ -40,9 +35,7 @@ layout: default
 
 </details>
 
-<details open>
-<summary>Unit 4: Placeholder</summary>
-<br>
+<details open><summary>Unit 4: Placeholder</summary>
 
 [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)\
 [Unit 1: Polynomial and Rational Functions](/units1/unit1.md)\
