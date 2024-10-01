@@ -46,7 +46,7 @@ details > div {
 </details>
 
 <details>
-  <summary>Unit 1: Polynomial and Rational Functions</summary>
+  <summary>Unit 3: Polynomial and Rational Functions</summary>
   <div>
     <a href="/units1/unit1.md">1.1: Bingus</a><br>
     <a href="/units1/unit1.md">1.2: Bingus2</a><br>
@@ -54,7 +54,7 @@ details > div {
 </details>
 
 <details>
-  <summary>Unit 1: Polynomial and Rational Functions</summary>
+  <summary>Unit 4: Polynomial and Rational Functions</summary>
   <div>
     <a href="/units1/unit1.md">1.1: Bingus</a><br>
     <a href="/units1/unit1.md">1.2: Bingus2</a><br>
@@ -62,7 +62,7 @@ details > div {
 </details>
 
 <!-- Add the Collapse All text (initially hidden) -->
-<p id="collapseText" style="display: none; cursor: pointer; color: blue;" onclick="collapseAll()">Collapse All</p>
+<p id="collapseText" style="display: none; cursor: pointer; color: cyan;" onclick="collapseAll()">Collapse All</p>
 
 <!-- Add JavaScript for collapsing all dropdowns and showing/hiding the text -->
 <script>
