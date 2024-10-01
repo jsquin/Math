@@ -9,7 +9,6 @@ layout: default
 
 ## Chapters
 
-[Unit 1: Polynomial and Rational Functions](/units1/unit1.md)\
 <details open>
 <summary>Unit 1: Polynomial and Rational Functions</summary>
 <br>
