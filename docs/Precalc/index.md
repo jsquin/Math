@@ -7,8 +7,6 @@ layout: default
 # {{ page.title }}
 
 
-## Chapters
-
 <details>
   <summary>Unit 1: Polynomial and Rational Functions</summary>
   <div>
