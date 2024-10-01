@@ -62,7 +62,7 @@ details > div {
 </details>
 <br><br><br>
 <!-- Add the Collapse All text (initially hidden) -->
-<p id="collapseText" style="display: none; cursor: pointer; color: cyan;" onclick="collapseAll()">Collapse All</p>
+<p id="collapseText" style="display: none; cursor: pointer; color: goldenrod;" onclick="collapseAll()">Collapse All</p>
 
 <!-- Add JavaScript for collapsing all dropdowns and showing/hiding the text -->
 <script>
