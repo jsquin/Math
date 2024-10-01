@@ -61,6 +61,19 @@ details > div {
   </div>
 </details>
 
+<!-- Add the Collapse All button -->
+<button onclick="collapseAll()">Collapse All</button>
+
+<!-- Add JavaScript for collapsing all dropdowns -->
+<script>
+function collapseAll() {
+  const details = document.querySelectorAll("details");
+  details.forEach((detail) => {
+    detail.removeAttribute("open");
+  });
+}
+</script>
+
 <!--
 https://precalculus.flippedmath.com/ap-precalc.html
 https://mathspace.co/textbooks/syllabuses/Syllabus-1171/topics/Topic-22118/
