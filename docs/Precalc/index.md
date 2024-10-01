@@ -10,16 +10,20 @@ layout: default
 details summary {
     cursor: pointer;
     list-style: none;
+    position: relative;
+    padding-left: 20px; /* Add space for the custom arrow */
 }
 
-details summary::marker {
-    content: "▶ ";  /* Add an arrow marker for closed state */
+details summary::before {
+    content: "▶";  /* Closed state arrow */
+    position: absolute;
+    left: 0;
 }
 
-details[open] summary::marker {
-    content: "▼ ";  /* Add a down arrow marker for open state */
+details[open] summary::before {
+    content: "▼";  /* Open state arrow */
 }
-
+  
 details > div {
     margin-left: 20px; /* Indent the contents of the dropdown */
 }
