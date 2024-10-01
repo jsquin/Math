@@ -1,5 +1,5 @@
 ---
-title: AP PreCalculus
+title: AP Precalculus
 layout: default
 
 ---
@@ -28,11 +28,12 @@ details > div {
 }
 </style>
 
-<details><summary>Unit 1: Polynomial and Rational Functions</summary>
-
-<a href="/units1/unit1.md">1.1: Bingus</a> 
-<a href="/units1/unit1.md">1.2: Bingus2</a>
-
+<details>
+  <summary>Unit 1: Polynomial and Rational Functions</summary>
+  <div>
+    <a href="/units1/unit1.md">1.1: Bingus</a><br>
+    <a href="/units1/unit1.md">1.2: Bingus2</a><br>
+  </div>
 </details>
 
 
@@ -57,12 +58,18 @@ details > div {
 
 </details>
 
+<!--
+https://precalculus.flippedmath.com/ap-precalc.html
+https://mathspace.co/textbooks/syllabuses/Syllabus-1171/topics/Topic-22118/
+https://precalculus.flippedmath.com/unit-1a-review.html
+-->
 
 
 
-<a href="/Early Transcendentals 9th.pdf" download>Early Transcendentals</a>
 
-<a href="/Precalc 7th.pdf" download>Precalc</a>
+
+
+
 
 
 
