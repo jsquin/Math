@@ -61,17 +61,40 @@ details > div {
   </div>
 </details>
 
-<!-- Add the Collapse All button -->
-<button onclick="collapseAll()">Collapse All</button>
+<!-- Add the Collapse All text (initially hidden) -->
+<p id="collapseText" style="display: none; cursor: pointer; color: blue;" onclick="collapseAll()">Collapse All</p>
 
-<!-- Add JavaScript for collapsing all dropdowns -->
+<!-- Add JavaScript for collapsing all dropdowns and showing/hiding the text -->
 <script>
+// Function to collapse all open <details> elements
 function collapseAll() {
   const details = document.querySelectorAll("details");
   details.forEach((detail) => {
     detail.removeAttribute("open");
   });
+  toggleCollapseText();  // Hide the Collapse All text once all are collapsed
 }
+
+// Function to show/hide the Collapse All text based on open details
+function toggleCollapseText() {
+  const details = document.querySelectorAll("details");
+  const collapseText = document.getElementById("collapseText");
+  
+  // Check if any <details> are open
+  const anyOpen = Array.from(details).some((detail) => detail.hasAttribute("open"));
+
+  // Show the Collapse All text if any <details> are open, otherwise hide it
+  if (anyOpen) {
+    collapseText.style.display = "block";
+  } else {
+    collapseText.style.display = "none";
+  }
+}
+
+// Add event listeners to each <details> to monitor for open/close changes
+document.querySelectorAll("details").forEach((detail) => {
+  detail.addEventListener("toggle", toggleCollapseText);
+});
 </script>
 
 <!--
