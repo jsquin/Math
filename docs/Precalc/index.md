@@ -60,7 +60,7 @@ details > div {
     <a href="/units1/unit1.md">1.2: Bingus2</a><br>
   </div>
 </details>
-
+<br><br><br>
 <!-- Add the Collapse All text (initially hidden) -->
 <p id="collapseText" style="display: none; cursor: pointer; color: cyan;" onclick="collapseAll()">Collapse All</p>
 
